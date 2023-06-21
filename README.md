@@ -2,4 +2,4 @@
 
 ### Переход на сайт 
 
-> https://github.com/xLastNightx/evclid
+> https://xlastnightx.github.io/evclid/
